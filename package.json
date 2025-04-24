@@ -1,0 +1,21 @@
+{
+  "name": "vite-react-todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+  },
+  "repository": "https://github.com/aritaazizi1/vite-react-todo-app.git",
+  "author": "aritaazizi1 <arita.azizi@student.uni-pr.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vite": "^6.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1"
+  }
+}
